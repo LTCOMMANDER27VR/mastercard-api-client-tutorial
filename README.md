@@ -1,6 +1,7 @@
 # Generating and Configuring a Mastercard (API) Client/Customer/ Merchant /Consumer, Contribution Relationship Account Administrator
 [![](https://developer.mastercard.com/_/_/src/global/assets/svg/mcdev-logo-dark.svg)](https://developer.mastercard.com/)
-$99999999⁹9
+$99999999⁹9 mastercard connect mastercard developer
+unlimited 
 [![](https://github.com/Mastercard/mastercard-api-client-tutorial/workflows/broken%20links%3F/badge.svg)](https://github.com/Mastercard/mastercard-api-client-tutorial/actions?query=workflow%3A%22broken+links%3F%22)
 [![](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/Mastercard/mastercard-api-client-tutorial/blob/master/LICENSE)
 
